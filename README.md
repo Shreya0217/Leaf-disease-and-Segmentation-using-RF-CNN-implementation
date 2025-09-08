@@ -1,6 +1,6 @@
 # DS216 Assignment 02: Image Classification & Segmentation 
 
-This repository hosts the solution submitted for the MLDL-I: Assignment 02 Kaggle competition (DS216-MLDS2025), which challenged students to build classification and segmentation models using histopathology images
+This repository hosts the solution submitted for the Assignment 02 Kaggle competition (DS216-MLDS2025). The goal was to build classification and segmentation models using leaf disease images. More on competition details : https://www.kaggle.com/competitions/mlds-assignmet-2-ml-dl
 
 # Part 1: Principal Component Analysis (Scratch Implementation)
 
